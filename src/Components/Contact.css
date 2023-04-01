@@ -1,0 +1,39 @@
+.contactWrap {
+  border-top: solid 3px #434141;
+  background-color: #efeadf;
+  margin: 50px 0px 0px 0px;
+}
+.contactText {
+  color: #434141;
+  font-family: "Andale Mono";
+  font-weight: lightest;
+  text-transform: uppercase;
+  padding: 10px 15px 10px 15px;
+}
+
+.heading {
+  margin: 0px -15px;
+  border-bottom: solid 3px #434141;
+}
+
+h2 {
+  text-align: center;
+  padding: 0px 0px 10px 0px;
+}
+
+h2,
+p {
+  font-size: 20px;
+}
+
+p {
+  margin: 30px 20px;
+}
+.text {
+  margin: 90px 0px;
+}
+
+a {
+  text-decoration: none;
+  color: #434141;
+}

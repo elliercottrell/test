@@ -1,17 +1,35 @@
-import React from 'react';
-import ReactDOM from 'react-dom/client';
-import './index.css';
-import App from './App';
-import reportWebVitals from './reportWebVitals';
+import React from "react";
+import ReactDOM from "react-dom/client";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import "./index.css";
+import App from "./App";
+import { ScrollToTop } from "react-router-scroll-to-top";
+import ProjectOneGallery from "./Components/ProjectOneGallery";
+import ProjectTwoGallery from "./Components/ProjectTwoGallery";
+import ProjectThreeGallery from "./Components/ProjectThreeGallery";
+import ProjectFourGallery from "./Components/ProjectFourGallery";
+import ProjectFiveGallery from "./Components/ProjectFiveGallery";
 
-const root = ReactDOM.createRoot(document.getElementById('root'));
+const Routing = () => {
+  return (
+    <Router>
+      <ScrollToTop />
+      <div className="app">
+        <Routes>
+          <Route path="/" index element={<App />} />
+          <Route path="/pjo" element={<ProjectOneGallery />} />
+          <Route path="/pjt" element={<ProjectTwoGallery />} />
+          <Route path="/pjth" element={<ProjectThreeGallery />} />
+          <Route path="/pjf" element={<ProjectFourGallery />} />
+          <Route path="/pjfi" element={<ProjectFiveGallery />} />
+        </Routes>
+      </div>
+    </Router>
+  );
+};
+const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
-    <App />
+    <Routing />
   </React.StrictMode>
 );
-
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
-reportWebVitals();

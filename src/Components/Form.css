@@ -1,0 +1,46 @@
+.messageHeading {
+  padding: 10px 0px 0px 0px;
+  border-top: solid 3px #434141;
+  color: #434141;
+  font-family: "Andale Mono";
+  font-weight: lightest;
+  text-transform: uppercase;
+  background-color: #f6f5f0;
+}
+
+.contactForm {
+  margin: 0px 0px 0px 0px;
+  border-bottom: solid 3px #434141;
+}
+
+.name,
+.yourEmail,
+.yourMessage,
+.pleaseSubmit {
+  border-top: solid 3px #434141;
+  border-bottom: none;
+  border-right: none;
+  border-left: none;
+  background-color: #f6f5f0;
+  width: 100vw;
+  font-size: 20px;
+  font-family: "Andale Mono";
+  font-weight: lightest;
+  text-transform: uppercase;
+  padding: 27px 0px 27px 0px;
+  text-indent: 20px;
+}
+
+.pleaseSubmit {
+  text-align: start;
+}
+
+.name:focus,
+.yourEmail:focus,
+.yourMessage:focus {
+  outline: none;
+}
+
+input::placeholder {
+  color: #434141;
+}

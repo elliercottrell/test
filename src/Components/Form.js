@@ -48,7 +48,12 @@ function ContactForm() {
           name="message"
           placeholder="message"
         />
-        <input type="submit" className="pleaseSubmit" value="Send" />
+        <input
+          type="submit"
+          className="pleaseSubmit"
+          value="Send"
+          style={{ padding: "20px" }}
+        />
       </form>
     </div>
   );

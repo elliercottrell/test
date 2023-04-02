@@ -35,8 +35,10 @@
   text-align: start;
   color: #434141;
   padding: 0px;
-  border-radius: 0px;
+  border-radius: 0;
   border: solid 3px #434141;
+  background-color: #f6f5f0;
+  width: 100vw;
 }
 
 .name:focus,

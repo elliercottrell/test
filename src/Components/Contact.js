@@ -14,7 +14,11 @@ function Contact() {
             <p>erc.ink.drawing@gmail.com</p>
           </a>
           <p>07958 690 737</p>
-          <a href="https://www.instagram.com/erc.ink/?hl=en" target="_blank">
+          <a
+            href="https://www.instagram.com/erc.ink/?hl=en"
+            target="_blank"
+            rel="noreferrer"
+          >
             <p>instagram</p>
           </a>
         </div>

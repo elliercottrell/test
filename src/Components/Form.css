@@ -31,11 +31,15 @@
   padding: 27px 0px 27px 0px;
   text-indent: 20px;
 }
+.yourMessage {
+  border-bottom: solid 3px #434141;
+}
 
 .pleaseSubmit {
   text-align: start;
   border: none;
   color: #434141;
+  padding: 20px;
 }
 
 .name:focus,

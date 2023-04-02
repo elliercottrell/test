@@ -18,6 +18,7 @@
 .yourMessage,
 .pleaseSubmit {
   border-top: solid 3px #434141;
+  border-radius: none;
   border-bottom: none;
   border-right: none;
   border-left: none;
@@ -33,6 +34,7 @@
 
 .pleaseSubmit {
   text-align: start;
+  color: #434141;
 }
 
 .name:focus,

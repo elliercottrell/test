@@ -32,12 +32,12 @@
   text-indent: 20px;
 }
 
-.pleaseSubmit {
+/* .pleaseSubmit {
   text-align: start;
   color: #434141;
   padding: 10px;
   border-radius: 0px;
-}
+} */
 
 .name:focus,
 .yourEmail:focus,

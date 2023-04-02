@@ -15,7 +15,8 @@
 
 .name,
 .yourEmail,
-.yourMessage {
+.yourMessage,
+.pleaseSubmit {
   border-top: solid 3px #434141;
   border-radius: 0px;
   border-bottom: none;
@@ -33,17 +34,12 @@
 
 .pleaseSubmit {
   text-align: start;
-  color: #434141;
-  padding: 0px;
-  border-radius: 0;
-  border: solid 3px #434141;
-  background-color: #f6f5f0;
-  width: 100vw;
 }
 
 .name:focus,
 .yourEmail:focus,
-.yourMessage:focus {
+.yourMessage:focus,
+.pleaseSubmit:focus {
   outline: none;
 }
 

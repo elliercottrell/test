@@ -10,7 +10,7 @@
 
 .contactForm {
   border-bottom: solid 3px #434141;
-  padding: 0px 0px 20px 0px;
+  padding: 0px 0px 15px 0px;
 }
 .name,
 .yourEmail,
@@ -31,7 +31,7 @@
 }
 .yourMessage {
   border-bottom: solid 3px #434141;
-  margin-bottom: 20px;
+  margin-bottom: 15px;
 }
 
 .pleaseSubmit {

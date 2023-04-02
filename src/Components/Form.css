@@ -35,6 +35,7 @@
 .pleaseSubmit {
   text-align: start;
   color: #434141;
+  padding: 10px;
 }
 
 .name:focus,

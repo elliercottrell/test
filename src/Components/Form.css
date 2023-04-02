@@ -18,7 +18,7 @@
 .yourMessage,
 .pleaseSubmit {
   border-top: solid 3px #434141;
-  border-radius: none;
+  border-radius: 0px;
   border-bottom: none;
   border-right: none;
   border-left: none;

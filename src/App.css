@@ -1,7 +1,6 @@
 @font-face {
   font-family: "Andale Mono"; /*Can be any text*/
-  src: local("Andale Mono"),
-    url("./font/Andale\ Mono.ttf Mono.ttf") format("truetype");
+  src: local("Andale Mono"), url("./font/AndaleMono.ttf") format("truetype");
 }
 
 .galleryWrap {

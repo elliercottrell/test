@@ -2,3 +2,9 @@ body {
   background-color: #f6f5f0;
   margin: 0px;
 }
+
+@font-face {
+  font-family: "Andale Mono"; /*Can be any text*/
+  src: local("Andale Mono"),
+    url("./font/Andale\ Mono.ttf Mono.ttf") format("truetype");
+}

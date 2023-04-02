@@ -28,7 +28,7 @@
   font-family: "Andale Mono";
   font-weight: lightest;
   text-transform: uppercase;
-
+  padding: 0px 20px 0px 20px;
   text-indent: 20px;
 }
 .yourMessage {
@@ -39,7 +39,6 @@
   text-align: start;
   border: none;
   color: #434141;
-  padding-bottom: 50px;
 }
 
 .name:focus,

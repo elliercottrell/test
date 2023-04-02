@@ -14,8 +14,7 @@
 }
 .name,
 .yourEmail,
-.yourMessage,
-.pleaseSubmit {
+.yourMessage {
   border-top: solid 3px #434141;
   border-radius: 0px;
   border-bottom: none;
@@ -38,6 +37,13 @@
   text-align: start;
   border: none;
   color: #434141;
+  background-color: #f6f5f0;
+  width: 100vw;
+  font-size: 20px;
+  font-family: "Andale Mono";
+  font-weight: lightest;
+  text-transform: uppercase;
+  padding: 20px 0px 20px 0px;
 }
 
 .name:focus,

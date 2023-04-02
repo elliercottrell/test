@@ -1,3 +1,7 @@
+@font-face {
+  font-family: "Andale Mono"; /*Can be any text*/
+  src: local("Andale Mono"), url("../font/Andale\ Mono.ttf") format("truetype");
+}
 .contactWrap {
   border-top: solid 3px #434141;
   background-color: #efeadf;

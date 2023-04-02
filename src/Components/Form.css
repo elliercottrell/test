@@ -9,8 +9,8 @@
 }
 
 .contactForm {
-  margin: 0px 0px 0px 0px;
   border-bottom: solid 3px #434141;
+  padding: 0px 0px 20px 0px;
 }
 .name,
 .yourEmail,
@@ -43,7 +43,6 @@
   font-family: "Andale Mono";
   font-weight: lightest;
   text-transform: uppercase;
-  padding: 0px 30px 0px 0px;
 }
 
 .name:focus,

@@ -52,7 +52,7 @@ function ContactForm() {
           type="submit"
           className="pleaseSubmit"
           value="Send"
-          style={{ padding: "20px" }}
+          style={{ padding: "50px" }}
         />
       </form>
     </div>

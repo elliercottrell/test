@@ -1,3 +1,8 @@
+@font-face {
+  font-family: "Andale Mono"; /*Can be any text*/
+  src: local("Andale Mono"), url("./font/AndaleMono.ttf") format("truetype");
+}
+
 .messageHeading {
   padding: 10px 0px 0px 0px;
   border-top: solid 3px #434141;

@@ -1,7 +1,6 @@
 .headerWrap {
   border-bottom: solid 3px #434141;
   padding: 0px;
-
   position: fixed;
   width: 100vw;
   background-color: #f6f5f0;
@@ -18,4 +17,31 @@ h1 {
   letter-spacing: 7px;
   padding: 0px;
   margin: 10px;
+}
+
+@media (min-width: 990px) {
+  .headerWrap {
+    border: none;
+    padding: 0px;
+    position: fixed;
+    width: 20%;
+    background-color: transparent;
+  }
+
+  h1 {
+    color: #434141;
+    border-right: solid 3px #434141;
+    background-color: #f6f5f0;
+    writing-mode: vertical-rl;
+    text-orientation: sideways-right;
+    padding: 200px 40px 20px 0px;
+    margin: 0px;
+    width: 50%;
+    height: 100vh;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+      sans-serif;
+    font-size: 50px;
+    letter-spacing: 7px;
+    z-index: 0;
+  }
 }

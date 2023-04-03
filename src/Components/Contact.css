@@ -37,3 +37,25 @@ a {
   text-decoration: none;
   color: #434141;
 }
+
+@media (min-width: 990px) {
+  .contactWrap {
+    padding-left: 13%;
+    display: inline-flex;
+    width: 45%;
+    padding-bottom: 0px;
+    border-bottom: solid 3px #434141;
+    border-right: solid 3px #434141;
+  }
+  .heading {
+    width: 200%;
+  }
+
+  .heading h2 {
+    margin-left: -220px;
+  }
+  .text {
+    padding: 16.6px;
+    margin: 10px;
+  }
+}

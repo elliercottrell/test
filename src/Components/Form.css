@@ -56,3 +56,24 @@
 input::placeholder {
   color: #434141;
 }
+
+@media (min-width: 990px) {
+  .contactForm {
+    display: inline;
+    position: absolute;
+  }
+
+  .messageHeading {
+    margin-left: 0%;
+    margin-top: 50px;
+  }
+
+  .name,
+  .yourEmail,
+  .yourMessage,
+  .pleaseSubmit {
+    margin-left: 0%;
+    text-indent: 17%;
+    width: 100%;
+  }
+}

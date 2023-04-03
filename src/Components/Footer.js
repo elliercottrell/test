@@ -4,8 +4,8 @@ import "./Footer.css";
 function Footer() {
   return (
     <div className="footerWrap">
-      <Link to="/" className="ercTitleLink">
-        <h1 className="ercFooterTitle">ERC</h1>
+      <Link to="/" className="ercFooterLink">
+        <h2 className="ercFooterTitle">ERC</h2>
       </Link>
     </div>
   );

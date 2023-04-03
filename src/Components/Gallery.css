@@ -59,14 +59,13 @@
 
   .largeImageWrap {
     overflow: hidden;
-    top: 0;
-    bottom: 0;
     background-color: #f6f5f0;
     display: flex;
-    justify-content: flex-end;
-    margin-right: 100px;
+    justify-content: center;
+    margin-left: 7%;
     margin-top: 0px;
     padding-top: 100px;
+    z-index: 9;
   }
 
   .fullScreenImage img {

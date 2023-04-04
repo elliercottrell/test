@@ -57,7 +57,7 @@ input::placeholder {
   color: #434141;
 }
 
-@media (min-width: 990px) {
+@media (min-width: 900px) {
   .contactForm {
     margin-top: 50px;
     display: inline;

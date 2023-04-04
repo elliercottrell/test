@@ -38,7 +38,7 @@ a {
   color: #434141;
 }
 
-@media (min-width: 990px) {
+@media (min-width: 900px) {
   .contactWrap {
     padding-left: 13%;
     display: inline-flex;

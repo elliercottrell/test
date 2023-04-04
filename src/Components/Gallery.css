@@ -36,7 +36,7 @@
   top: 0;
 }
 
-@media (min-width: 990px) {
+@media (min-width: 900px) {
   .imageWrap {
     display: flex;
     flex-wrap: wrap;

@@ -19,7 +19,7 @@ h1 {
   margin: 10px;
 }
 
-@media (min-width: 990px) {
+@media (min-width: 900px) {
   .headerWrap {
     border: none;
     padding: 0px;

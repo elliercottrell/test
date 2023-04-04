@@ -42,7 +42,7 @@
     flex-wrap: wrap;
     gap: 10px;
     align-items: center;
-    justify-content: end;
+    justify-content: flex-end;
     max-width: 1000px;
     min-width: 660px;
     margin: 0 auto;

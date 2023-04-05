@@ -42,7 +42,7 @@ a {
   .contactWrap {
     padding-left: 13%;
     display: inline-flex;
-    width: 45%;
+    width: 40%;
     padding-bottom: 0px;
     border-bottom: solid 3px #434141;
     border-right: solid 3px #434141;
@@ -52,7 +52,7 @@ a {
   }
 
   .heading h2 {
-    margin-left: -220px;
+    margin-left: -250px;
   }
   .text {
     padding: 16.8px;

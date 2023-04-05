@@ -75,7 +75,7 @@ input::placeholder {
   .yourMessage,
   .pleaseSubmit {
     margin-left: 0%;
-    text-indent: 17%;
+    text-indent: 10%;
     width: 100%;
     background-color: #efeadf;
   }

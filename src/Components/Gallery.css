@@ -45,6 +45,7 @@
     justify-content: flex-end;
     max-width: 1200px;
     min-width: 660px;
+    margin-right: 0px;
   }
 
   .imageWrap .single {

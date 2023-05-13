@@ -45,11 +45,11 @@
     justify-content: flex-end;
     max-width: 1200px;
     min-width: 660px;
-    margin-right: 100px;
+    margin-right: 70px;
   }
 
   .imageWrap .single {
-    width: 250px;
+    width: 200px;
     cursor: pointer;
     margin: 10px;
   }

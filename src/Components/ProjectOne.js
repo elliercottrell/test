@@ -4,7 +4,7 @@ import "./ProjectOne.css";
 function ProjectOne() {
   const galleryImages = [
     {
-      img: "Images/p1_1.jpg",
+      img: "Images/morocco/p6_1.png",
     },
     {
       img: "Images/p1_2.jpg",

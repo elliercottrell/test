@@ -44,6 +44,7 @@
   font-family: "Andale Mono";
   font-weight: lightest;
   text-transform: uppercase;
+  margin-left: 15px;
 }
 
 .name:focus,
@@ -72,10 +73,15 @@ input::placeholder {
 
   .name,
   .yourEmail,
-  .yourMessage,
-  .pleaseSubmit {
+  .yourMessage {
     margin-left: 0%;
     text-indent: 10%;
+    width: 100%;
+    background-color: #efeadf;
+  }
+
+  .pleaseSubmit {
+    text-indent: 6%;
     width: 100%;
     background-color: #efeadf;
   }

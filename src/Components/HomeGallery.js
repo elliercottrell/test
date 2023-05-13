@@ -4,140 +4,140 @@ import "./Gallery.css";
 function HomeGallery() {
   const homeGalleryImages = [
     {
-      img: "Images/p1_1.jpg",
+      img: "Images/morocco/p6_1.png",
       link: "pjo",
     },
     {
-      img: "Images/p1_2.jpg",
+      img: "Images/p6_2.png",
       link: "pjo",
     },
     {
-      img: "Images/p1_3.jpg",
+      img: "Images/p6_3.png",
       link: "pjo",
     },
     {
-      img: "Images/p1_4.jpg",
+      img: "Images/p6_4.png",
       link: "pjo",
     },
     {
-      img: "Images/p1_5.jpg",
+      img: "Images/p6_5.png",
       link: "pjo",
     },
     {
-      img: "Images/p1_6.jpg",
+      img: "Images/p6_6.png",
       link: "pjo",
     },
     {
-      img: "Images/p2_1.jpg",
+      img: "Images/p6_7.png",
       link: "pjt",
     },
 
     {
-      img: "Images/p2_2.jpg",
+      img: "Images/p6_8.png",
       link: "pjt",
     },
     {
-      img: "Images/p2_3.jpg",
+      img: "Images/p6_9.png",
       link: "pjt",
     },
     {
-      img: "Images/p2_4.jpg",
+      img: "Images/p6_10.png",
       link: "pjt",
     },
     {
-      img: "Images/p2_5.jpg",
+      img: "Images/p6_11.png",
       link: "pjt",
     },
     {
-      img: "Images/p2_6.jpg",
+      img: "Images/p6_12.png",
       link: "pjt",
     },
     {
-      img: "Images/p3_1.jpg",
+      img: "Images/p6_13.png",
       link: "pjth",
     },
     {
-      img: "Images/p3_2.jpg",
+      img: "Images/p6_14.png",
       link: "pjth",
     },
     {
-      img: "Images/p3_3.jpg",
+      img: "Images/p6_15.png",
       link: "pjth",
     },
     {
-      img: "Images/p3_4.jpg",
+      img: "Images/p6_16.png",
       link: "pjth",
     },
     {
-      img: "Images/p3_5.jpg",
+      img: "Images/p6_17.png",
       link: "pjth",
     },
     {
-      img: "Images/p3_6.jpg",
+      img: "Images/p6_18.png",
       link: "pjth",
     },
     {
-      img: "Images/p3_7.jpg",
+      img: "Images/p6_19.png",
       link: "pjth",
     },
     {
-      img: "Images/p3_8.jpg",
+      img: "Images/p6_20.png",
       link: "pjth",
     },
     {
-      img: "Images/p4_1.jpg",
+      img: "Images/p6_21.png",
       link: "pjf",
     },
     {
-      img: "Images/p4_2.jpg",
+      img: "Images/p6_22.png",
       link: "pjf",
     },
     {
-      img: "Images/p4_3.jpg",
+      img: "Images/p6_23.png",
       link: "pjf",
     },
     {
-      img: "Images/p4_4.jpg",
+      img: "Images/p6_24.png",
       link: "pjf",
     },
     {
-      img: "Images/p4_5.jpg",
+      img: "Images/p6_25.png",
       link: "pjf",
     },
     {
-      img: "Images/p4_6.jpg",
+      img: "Images/p6_26.png",
       link: "pjf",
     },
     {
-      img: "Images/p4_7.jpg",
+      img: "Images/p6_27.png",
       link: "pjf",
     },
     {
-      img: "Images/p4_8.jpg",
+      img: "Images/p6_28.png",
       link: "pjf",
     },
     {
-      img: "Images/p4_9.jpg",
+      img: "Images/p1_1.png",
       link: "pjf",
     },
     {
-      img: "Images/p4_10.jpg",
+      img: "Images/p1_2.png",
       link: "pjf",
     },
     {
-      img: "Images/p4_11.jpg",
+      img: "Images/p1_3.png",
       link: "pjf",
     },
     {
-      img: "Images/p4_12.jpg",
+      img: "Images/p1_4.png",
       link: "pjf",
     },
     {
-      img: "Images/p5_1.jpg",
+      img: "Images/p1_5.png",
       link: "pjfi",
     },
     {
-      img: "Images/p5_2.jpg",
+      img: "Images/p1_6.png",
       link: "pjfi",
     },
     {
